@@ -1,1 +1,2 @@
-# Server-DB
+# pip install flask
+# pip install Flask-SQLAlchemy
