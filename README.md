@@ -1,2 +1,2 @@
-# pip install flask
+# pip install Flask
 # pip install Flask-SQLAlchemy
